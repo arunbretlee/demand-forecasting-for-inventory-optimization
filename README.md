@@ -58,7 +58,7 @@ The model outputs:
 
 ⚙️ Installation
 
-git clone https://github.com/your-username/hybrid-demand-forecasting.git
+git clone https://github.com/arunbretlee/hybrid-demand-forecasting.git
 cd hybrid-demand-forecasting
 pip install -r requirements.txt
 
